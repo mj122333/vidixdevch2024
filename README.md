@@ -1,5 +1,5 @@
 https://hr.vidi-x.org/vidi-x-game-dev-challenge-2024/
-(https://github.com/mj122333/vidixdevch2024/blob/main/vidiX1.jpg)
+!(https://github.com/mj122333/vidixdevch2024/blob/main/vidiX1.jpg)
 "Poziv na sudjelovanje: S obzirom da se VIDI X razvojno mikroračunalo nalazi u više od 160 hrvatskih škola i drugih obrazovnih ustanova u Hrvatskoj s ponosom objavljujemo poziv za prvi VIDI X izazov!  
 Pozivamo sve kreativce i ljubitelje tehnologije da se jave na VIDI X Game Dev Challenge na kojemu možete osvojiti vrijedne nagrade. 
 Cilj ovog nagradnog natječaja je stvoriti inovativne i zabavne igre koje će raditi na VIDI X mikroračunalu. 
