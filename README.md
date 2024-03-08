@@ -1,25 +1,15 @@
 https://hr.vidi-x.org/vidi-x-game-dev-challenge-2024/
-
+(https://github.com/mj122333/vidixdevch2024/blob/main/vidiX1.jpg)
 "Poziv na sudjelovanje: S obzirom da se VIDI X razvojno mikroračunalo nalazi u više od 160 hrvatskih škola i drugih obrazovnih ustanova u Hrvatskoj s ponosom objavljujemo poziv za prvi VIDI X izazov!  
-
 Pozivamo sve kreativce i ljubitelje tehnologije da se jave na VIDI X Game Dev Challenge na kojemu možete osvojiti vrijedne nagrade. 
-
 Cilj ovog nagradnog natječaja je stvoriti inovativne i zabavne igre koje će raditi na VIDI X mikroračunalu. 
-
 Ovo je jedinstvena prilika da vaše igre dožive međunarodno priznanje i budu zaigrane od strane učenika ne samo u Hrvatskoj, već i u SAD-u. Sudjelovanjem u ovom natječaju, imate priliku utjecati na obrazovanje i zabavu mladih ljudi diljem svijeta, te razviti vještine i znanje u području programiranja i dizajna igara. 
-
 Stvorite igru koja će oduševiti i inspirirati učenike, te postanite dio globalne VIDI X zajednice! 
-
 Zadatak: Vaš zadatak je napraviti ORIGINALNU igru koja se može pokrenuti na VIDI X mikroračunalu. Igra treba imati element bodovanja, bilo kroz mjerenje vremena ili osvajanje bodova. 
-
 Tehničke specifikacije: 
-
 ·   Sadržaj igre mora biti prikladan za polaznike osnovnih i srednjih škola.  
-
 ·   Potičemo korištenje kreativnosti i inovativnosti u dizajnu igre i mehanici igre.  
-
 ·   Upravljanje igrom nije ograničeno na touch screen ili tipkala koja su već ugrađena nego slobodno možete koristiti mobitel, dodatne senzore koje ćete spojiti na VIDI X ili nešto treće. 
-
 ·   Kao primjere i/ili inspiraciju možete koristiti kodove dostupne na našim GitHub stranicama https://github.com/VidiLAB-com/Vidi-X i https://github.com/Vidi-X, te službenoj web stranici https://hr.vidi-x.org/vidi-x_radionice/.
 
 ·   Vaš programski kod mora biti pod MIT Licencom. 
